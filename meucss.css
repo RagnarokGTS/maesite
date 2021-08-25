@@ -1,0 +1,11 @@
+header{
+    background-color: #FFFF00;
+}
+body{
+    background-color: #696969;
+}
+
+.larguraBarra{
+    width: 50%;
+    height: 100%;
+}
